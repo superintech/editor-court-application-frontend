@@ -1,0 +1,1 @@
+export const baseUrl = 'https://updated-editor-backend.onrender.com'
